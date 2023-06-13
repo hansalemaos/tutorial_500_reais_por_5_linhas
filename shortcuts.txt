@@ -1,0 +1,3 @@
+jscode,"Assertion.add('asset', function() {\n     this.params = { operator: 'to be asset' }\n\n     this.obj.should.have.property('id').which.is.a.Number()\n     this.obj.should.have.property('path')\n})"
+pd1,pd.set_option('display.max_rows', df.shape[0]+1)
+bo,bobao
